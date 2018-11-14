@@ -1,0 +1,56 @@
+/* RESET RULE */
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+    display:block;
+}
+
+h1 {
+    font-family: 'Chelsea Market', cursive;
+    font-size: 1.2rem;
+}
+
+h2, p {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h2 {
+    font-size: 1.2rem;
+}
+
+p {
+    font-size: 0.8rem;
+}
+
+body {
+    background-color: #fff0f7;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+header {
+    padding-top: 100px;
+    padding-bottom: 20px;
+    margin: auto;
+    width: 100%;
+    width: 300px;
+    text-align: center;
+}
+
+section, p {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin: auto;
+    width: 100%;
+    width: 300px;
+    text-align: center;
+}
+
