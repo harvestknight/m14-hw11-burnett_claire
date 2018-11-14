@@ -2,8 +2,7 @@
 
 
 ISSUES:
-
-
+-I had no issues while completing this assignment
 
 
 RESOURCES:
@@ -11,3 +10,4 @@ RESOURCES:
 -Sticky footer: https://appendto.com/2016/09/css-simple-sticky-footer/
 -HTML validation: https://validator.w3.org/
 -CSS validation: https://validator.w3.org/
+-Recorded lectures
